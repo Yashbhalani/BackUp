@@ -1,0 +1,7 @@
+MAX_RECENT_WORKSPACES=10
+RECENT_WORKSPACES=C\:\\Work\\ALD-feed-dashboard\\ALD-Feed-Dashboard\nC\:\\Work\\Microservices-learning\\RabbitMQLearning\nC\:\\Work\\Projects\\Java-Learning\\ALD-Dashboard-MVP\nC\:\\Work\\ALD-feed-dashboard\\ALD-Dashboard\nC\:\\Work\\Projects\\Java-Learning\\JAX-Rest-Web-API\nC\:\\Work\\Projects\\Reddit-Clone\nC\:\\Work\\Projects\\Spring-Learning\nC\:\\Work\\Projects\\Spring-Event-Demo\nC\:\\Work\\Design Pattens Practice\nC\:\\Work\\Projects\\Car-Remarketing
+RECENT_WORKSPACES_PROTOCOL=3
+SHOW_RECENT_WORKSPACES=true
+SHOW_WORKSPACE_SELECTION_DIALOG=true
+WARN_ABOUT_WORKSPACE_INCOMPATIBILITY=false
+eclipse.preferences.version=1
